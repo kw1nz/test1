@@ -1,0 +1,25 @@
+{
+"appMinimumVersionCode": 22111313,
+"linkToDownloadLastVersion": "https://drive.google.com/drive/folders/18Np00UHLAGtjGUgpvOqmE8SX3OsQjRGn?usp=sharing",
+"linkToDownloadLastVersionYandexDisk": "https://disk.yandex.com/d/D4VhOn8JrkzTkw",
+"lessonsReducedTime": {	
+	
+"03.11.2022": {
+"lessonsTimeStart": [830, 950, 1140, 1300, 1430, 1550, 1710],
+"lessonsTimeEnd": [940, 1100, 1250, 1410, 1540, 1700, 1820]
+},
+"05.10.2022": {
+"lessonsTimeStart": [830, 940, 1120, 1230, 1430, 1550, 1710],
+"lessonsTimeEnd": [930, 1040, 1220, 1330, 1540, 1700, 1820]
+},
+"09.01.2023": {
+"lessonsTimeStart": [830, 945, 1125, 1240, 1430, 1550, 1710],
+"lessonsTimeEnd": [930, 1045, 1225, 1340, 1540, 1700, 1820]
+},
+"22.02.2023": {
+"lessonsTimeStart": [830, 955, 1145, 1310, 1440, 1600, 1720],
+"lessonsTimeEnd": [940, 1105, 1255, 1420, 1550, 1710, 1830]
+}
+
+}
+}
